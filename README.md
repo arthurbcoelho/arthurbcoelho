@@ -1,10 +1,10 @@
 ### Hi there 👋
 :brazil:
 - 🔭 I’m currently working as a software tester, my tests are mainly written using cypress.
-- 🌱 I’m currently learning JS, Django, Cypress and, by force, learning PHP (hahaha)
+- 🌱 I’m currently learning JS, Django, Cypress and PHP.
 - 👯 I’m looking to collaborate on any Python project
 
-I'm studying Python since 2020, my main goal is become a developer. 
+I started my studies on 2019, firstly learning C++. My focus is Python and my main goal is become a Python developer. 
 
 
 PT-BR
