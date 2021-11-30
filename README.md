@@ -11,7 +11,7 @@ I started my studies on 2019, firstly learning C++. My focus is Python and my ma
 
 I've been studying Python for more than a year, that's my main language.
 
-You can find me on LinkedIn: /arthurbcoelho
+You can find me on LinkedIn @ /arthurbcoelho
 
 PT-BR
 Reservo o direito de não upar scripts que consomem dados de uma API e retorna a previsão do tempo, hora, etc... esses repositórios só servem para fazer volume no perfil do GitHub, 10min de tutorial básico de Python tu já desenvolve algo parecido. Ainda não participei de uma aplicação real em Python.
