@@ -11,8 +11,8 @@ I started my studies on 2019, firstly learning C++. My focus is Python and my ma
 
 I've been studying Python for more than a year, that's my main language.
 
-You can find me on LinkedIn @ /arthurbcoelho
 
+www.linkedin.com/in/arthurbcoelho
 www.leetcode.com/arthurbcoelho/
 
 <!--
