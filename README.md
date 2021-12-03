@@ -13,6 +13,8 @@ I've been studying Python for more than a year, that's my main language.
 
 You can find me on LinkedIn @ /arthurbcoelho
 
+leetcode.com/arthurbcoelho/
+
 <!--
 **arthurbcoelho/arthurbcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
