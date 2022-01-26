@@ -4,7 +4,7 @@ I'm Arthur, a Brazilian IT student and a software development enthusiast.
 
 :brazil:
 - 🔭 I’m currently working as a software tester, my tests are mainly written using cypress.
-- 🌱 I’m currently learning JS, Python, Django, Cypress and PHP.
+- 🌱 I’m currently learning JS, React, Python, Django, Cypress and PHP.
 - 👯 I’m looking to collaborate on any Python project
 
 I started my studies on 2019, firstly learning C++. My focus is Python and my main goal is become a Python developer. 
