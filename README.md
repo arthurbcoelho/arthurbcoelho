@@ -15,7 +15,7 @@ I feel ready to start working on software development, I'm currently looking for
 www.linkedin.com/in/arthurbcoelho </br>
 abcoelhojc@gmail.com
 
-Challenge me:
+**Challenge me:**</br>
 www.leetcode.com/arthurbcoelho </br>
 www.hackerrank.com/arthurbcoelho
 
