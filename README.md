@@ -3,16 +3,19 @@
 I'm Arthur, a Brazilian IT student and a software development enthusiast.
 
 :brazil:
-- 🔭 I’m currently working as a software tester, my tests are mainly written using cypress.
-- 🌱 I’m currently learning JS, React, Python, Django, Cypress and PHP.
+- 🔭 I’m currently working as a software tester, my tests are mainly written using Cypress
+- 🌱 I’m currently learning React and Django
 - 👯 I’m looking to collaborate on any Python project
 
-I started my studies on 2019, firstly learning C++. My focus is Python and my main goal is become a Python developer. 
+I started my studies on 2019, firstly learning C++. My main goal is become a back-end developer. I've been studying Python for more than a year, that's my "main" language so far. 
 
-I've been studying Python for more than a year, that's my main language.
+I feel ready to start working on software development, I'm currently looking for an oportunity to start. 
 
-
+**Contact me on:**</br>
 www.linkedin.com/in/arthurbcoelho </br>
+abcoelhojc@gmail.com
+
+Challenge me:
 www.leetcode.com/arthurbcoelho </br>
 www.hackerrank.com/arthurbcoelho
 
