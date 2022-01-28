@@ -7,7 +7,7 @@ I'm Arthur, a Brazilian IT student and a software development enthusiast.
 - 🌱 I’m currently learning React and Django
 - 👯 I’m looking to collaborate on any Python project
 
-I started my studies in 2019, firstly learning C++. My main goal is to become a back-end developer. I've been studying Python for more than a year, that's my "main" language so far. 
+I started my studies in 2019, firstly learning C++. My main goal is to become a developer. I've been studying Python for more than a year, that's my "main" language so far. 
 
 I feel ready to start working on software development, I'm currently looking for an oportunity to start. 
 
@@ -19,6 +19,8 @@ abcoelhojc@gmail.com
 www.leetcode.com/arthurbcoelho </br>
 www.hackerrank.com/arthurbcoelho
 
+
+- ⚡ Fun fact: Profile photo is my favorite one. That's me in 2019 @ Chernobyl 
 <!--
 **arthurbcoelho/arthurbcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
