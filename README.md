@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-I'm Arthur, a Brazilian IT student and a software development enthusiast.
+🇧🇷🇧🇷
+software development enthusiast.
 
 **📫 How to reach me:**</br>
 www.linkedin.com/in/arthurbcoelho </br>
