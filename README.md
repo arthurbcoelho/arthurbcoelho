@@ -1,5 +1,5 @@
 ### Hi there 👋
-🇧🇷🇧🇷
+🇧🇷🇧🇷 <br>
 software development enthusiast.
 
 **📫 How to reach me:**</br>
