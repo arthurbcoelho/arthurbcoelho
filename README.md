@@ -11,6 +11,9 @@ www.hackerrank.com/arthurbcoelho
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbcoelho&show_icons=true&count_private=true&theme=dark)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## :rocket:Technologies <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
