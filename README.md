@@ -12,6 +12,19 @@ www.hackerrank.com/arthurbcoelho
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbcoelho&show_icons=true&count_private=true&theme=dark)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 19 October 2022 - To: 20 October 2022
+
+Total Time: 58 mins
+
+HTML         28 mins         >>>>>>>>>>>>-------------   49.28 %
+Java         16 mins         >>>>>>>------------------   27.88 %
+XML          8 mins          >>>>---------------------   14.42 %
+Python       2 mins          >------------------------   03.89 %
+Other        1 min           >------------------------   02.81 %
+```
+
 <!--END_SECTION:waka-->
 
 ## :rocket:Technologies <br>
