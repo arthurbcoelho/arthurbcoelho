@@ -14,7 +14,7 @@ www.hackerrank.com/arthurbcoelho
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 October 2022 - To: 03 December 2022
+From: 19 October 2022 - To: 04 December 2022
 
 Total Time: 123 hrs 52 mins
 
