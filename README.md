@@ -14,14 +14,14 @@ www.hackerrank.com/arthurbcoelho
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 October 2022 - To: 21 December 2022
+From: 19 October 2022 - To: 22 December 2022
 
-Total Time: 186 hrs 3 mins
+Total Time: 192 hrs 34 mins
 
-TypeScript         52 hrs 25 mins  >>>>>>>------------------   28.17 %
-Java               47 hrs 48 mins  >>>>>>-------------------   25.70 %
-HTML               37 hrs 50 mins  >>>>>--------------------   20.34 %
-Other              9 hrs 31 mins   >------------------------   05.12 %
+TypeScript         54 hrs 23 mins  >>>>>>>------------------   28.24 %
+Java               51 hrs 11 mins  >>>>>>>------------------   26.58 %
+HTML               38 hrs 22 mins  >>>>>--------------------   19.93 %
+Other              9 hrs 31 mins   >------------------------   04.95 %
 ```
 
 <!--END_SECTION:waka-->
