@@ -14,16 +14,16 @@ www.hackerrank.com/arthurbcoelho
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 October 2022 - To: 28 February 2023
+From: 19 October 2022 - To: 01 March 2023
 
-Total Time: 266 hrs 29 mins
+Total Time: 270 hrs 1 min
 
-Java               80 hrs 10 mins  >>>>>>>>-----------------   30.08 %
-TypeScript         57 hrs 1 min    >>>>>--------------------   21.40 %
-HTML               39 hrs 58 mins  >>>>---------------------   15.00 %
-Delphi             29 hrs 40 mins  >>>----------------------   11.13 %
-YAML               10 hrs 38 mins  >------------------------   03.99 %
-Python             10 hrs 23 mins  >------------------------   03.90 %
+Java               80 hrs 10 mins  >>>>>>>------------------   29.69 %
+TypeScript         57 hrs 1 min    >>>>>--------------------   21.12 %
+HTML               39 hrs 58 mins  >>>>---------------------   14.80 %
+Delphi             33 hrs 10 mins  >>>----------------------   12.28 %
+YAML               10 hrs 38 mins  >------------------------   03.94 %
+Python             10 hrs 23 mins  >------------------------   03.85 %
 ```
 
 <!--END_SECTION:waka-->
