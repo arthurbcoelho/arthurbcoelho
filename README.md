@@ -74,20 +74,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!--START_SECTION:waka-->
-
-```text
-From: 19 October 2022 - To: 04 May 2023
-
-Total Time: 398 hrs 33 mins
-
-Delphi             154 hrs 10 mins >>>>>>>>>>---------------   38.68 %
-Java               80 hrs 44 mins  >>>>>--------------------   20.26 %
-TypeScript         57 hrs 1 min    >>>>---------------------   14.31 %
-HTML               39 hrs 58 mins  >>>----------------------   10.03 %
-Other              12 hrs 54 mins  >------------------------   03.24 %
-```
-
-<!--END_SECTION:waka-->
+-->
 
