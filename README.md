@@ -55,7 +55,7 @@ abcoelhojc@gmail.com
 
 
 
-⚡ Fun fact: Profile photo is my favorite one. That's me in 2019 @ Chernobyl 
+⚡ Fun fact: That's me in 2019 @ Chernobyl 
 <!--
 **arthurbcoelho/arthurbcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
