@@ -5,12 +5,7 @@ software development enthusiast.
 www.linkedin.com/in/arthurbcoelho </br>
 abcoelhojc@gmail.com
 
-**:jigsaw:Challenge me:**</br>
-www.leetcode.com/arthurbcoelho </br>
-www.hackerrank.com/arthurbcoelho
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbcoelho&show_icons=true&count_private=true&theme=dark)
-
 
 
 ## :rocket:Technologies <br>
